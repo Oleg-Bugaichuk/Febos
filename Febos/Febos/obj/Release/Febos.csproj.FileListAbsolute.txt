@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\bin\Release\Febos.exe.config
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\bin\Release\Febos.exe
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\bin\Release\Febos.pdb
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormMain.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormAccessOrders.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormAccessOrdersEnter.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormInsertOrders.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormInsertPersonal.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormOrders.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.FormPersonal.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.InfoAboutSystem.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.Properties.Resources.resources
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.exe
+C:\Users\User\Desktop\Дипломка\febos 2\Febos\Febos\obj\Release\Febos.pdb
